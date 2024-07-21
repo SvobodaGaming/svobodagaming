@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm SvobodaGaming</h1>
-- 🌱 I’m currently learning **ReactJS basics**
 
+
+- 🌱 I’m currently learning **ReactJS basics**
 - 💬 Ask me about **nodejs, express, electron**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
 <h2 align="left">I code with</h2>
 
-###
+### 
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
